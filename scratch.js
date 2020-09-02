@@ -22,3 +22,4 @@ if(!focused) focused = true;
 // Exercise: Make size of game responsive.
 // Exercise: Make ball change color when it collides with brick.
 // Exercise: Add more points per brick hit, print out the number of collected points in the end game alert box.
+// Exercise: adjust the boundaries of the paddle movement, so the whole paddle will be visible on both edges of the Canvas instead of only half of it.
